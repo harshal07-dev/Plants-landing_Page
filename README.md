@@ -1,1 +1,2 @@
-# Plants-landing_Page
+# Plants-landing_Page - HTML5 , Tailwindcss & Javascript.
+
